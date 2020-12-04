@@ -29,9 +29,9 @@ using Terraria.GameContent.Events;
  */
 
 
-namespace MusicTest
+namespace MusicMod
 {
-    public class MusicTest : Mod
+    public class MusicMod : Mod
     {
         string Nexterpack = "Sounds/Music/TheNexterPack/";
         double prev;
